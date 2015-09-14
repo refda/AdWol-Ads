@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <declare-styleable name="AdWolBanner">
+        <attr name="id" format="string" />
+        <attr name="tags" format="string" />
+    </declare-styleable>
+</resources>
